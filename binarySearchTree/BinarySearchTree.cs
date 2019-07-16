@@ -1,5 +1,3 @@
-using System;
-
 namespace binarySearchTree
 {
     public class BinarySearchTree
@@ -45,10 +43,36 @@ namespace binarySearchTree
             }
         }
 
-        public Node Search(int value)
+        public bool Search(int key)
         {
-            Node node = new Node(value);
-            return node;
+            bool isFound = false;
+
+            while((root.left != null || root.right != null)){
+                if (key < root.key && root != null) {
+                    root = root.left;
+                    if (root == null) {
+                    break;
+                    }
+                    if (root.key == key) {
+                        isFound = true;
+                    }
+                }
+                else if (key > root.key && root != null) {
+                    root = root.right;
+                    if (root == null) {
+                    break;
+                    }
+                     if (root.key == key) {
+                        isFound = true;
+                    }
+                }
+                if (key == root.key && root != null) {
+                isFound = true;
+                break;
+                }
+            }
+
+            return isFound;
         }
     }
 }

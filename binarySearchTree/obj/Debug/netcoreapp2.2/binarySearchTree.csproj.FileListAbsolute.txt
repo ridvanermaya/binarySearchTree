@@ -9,3 +9,14 @@
 /Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTree/binarySearchTree/bin/Debug/netcoreapp2.2/binarySearchTree.pdb
 /Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTree/binarySearchTree/obj/Debug/netcoreapp2.2/binarySearchTree.dll
 /Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTree/binarySearchTree/obj/Debug/netcoreapp2.2/binarySearchTree.pdb
+/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTreeProject/binarySearchTree/bin/Debug/netcoreapp2.2/binarySearchTree.deps.json
+/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTreeProject/binarySearchTree/bin/Debug/netcoreapp2.2/binarySearchTree.runtimeconfig.json
+/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTreeProject/binarySearchTree/bin/Debug/netcoreapp2.2/binarySearchTree.runtimeconfig.dev.json
+/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTreeProject/binarySearchTree/bin/Debug/netcoreapp2.2/binarySearchTree.dll
+/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTreeProject/binarySearchTree/bin/Debug/netcoreapp2.2/binarySearchTree.pdb
+/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTreeProject/binarySearchTree/obj/Debug/netcoreapp2.2/binarySearchTree.csprojAssemblyReference.cache
+/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTreeProject/binarySearchTree/obj/Debug/netcoreapp2.2/binarySearchTree.csproj.CoreCompileInputs.cache
+/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTreeProject/binarySearchTree/obj/Debug/netcoreapp2.2/binarySearchTree.AssemblyInfoInputs.cache
+/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTreeProject/binarySearchTree/obj/Debug/netcoreapp2.2/binarySearchTree.AssemblyInfo.cs
+/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTreeProject/binarySearchTree/obj/Debug/netcoreapp2.2/binarySearchTree.dll
+/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTreeProject/binarySearchTree/obj/Debug/netcoreapp2.2/binarySearchTree.pdb

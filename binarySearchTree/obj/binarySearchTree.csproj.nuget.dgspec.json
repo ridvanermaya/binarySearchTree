@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTree/binarySearchTree/binarySearchTree.csproj": {}
+    "/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTreeProject/binarySearchTree/binarySearchTree.csproj": {}
   },
   "projects": {
-    "/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTree/binarySearchTree/binarySearchTree.csproj": {
+    "/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTreeProject/binarySearchTree/binarySearchTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTree/binarySearchTree/binarySearchTree.csproj",
+        "projectUniqueName": "/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTreeProject/binarySearchTree/binarySearchTree.csproj",
         "projectName": "binarySearchTree",
-        "projectPath": "/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTree/binarySearchTree/binarySearchTree.csproj",
+        "projectPath": "/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTreeProject/binarySearchTree/binarySearchTree.csproj",
         "packagesPath": "/Users/redone/.nuget/packages/",
-        "outputPath": "/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTree/binarySearchTree/obj/",
+        "outputPath": "/Users/redone/git/DevCodeCamp/Week_06/Projects/binarySearchTreeProject/binarySearchTree/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

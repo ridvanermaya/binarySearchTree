@@ -17,6 +17,9 @@ namespace binarySearchTree
             binarySearch.Add(129);
             binarySearch.Add(127);
             binarySearch.Add(126);
+
+            bool found = binarySearch.Search(100000);
+            Console.WriteLine(found);
         }
     }
 }
