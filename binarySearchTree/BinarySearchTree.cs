@@ -1,11 +1,17 @@
+using System;
+
 namespace binarySearchTree
 {
     public class BinarySearchTree
     {
         // member variables
-        Node root = null;
+        public Node root;
 
         // constructor
+        public BinarySearchTree()
+        {
+            root = null;
+        }
 
         // member methods
         public void Add(int key)
@@ -13,22 +19,30 @@ namespace binarySearchTree
             Node node;
             Node temp = new Node(key);
             
-            node = root;
-            while(){
-
+            if (root == null) {
+                root = temp;
             }
-            if(key > root.key) {
+
+            node = root;
+
+            while(node.left != null || node.right != null){
+                if(key > node.key && node.right != null) {
+                    node = node.right;
+                }
+                else if (key < node.key && node.left != null) {
+                    node = node.left;
+                }
+                else {
+                    break;
+                }
+            }
+            
+            if (key > node.key) {
                 node.right = temp;
             }
-            else if (key < root.key) {
-
+            else if (key < node.key) {
+                node.left = temp;
             }
-        }
-
-        public void AddFirstNode(int key)
-        {
-            Node temp = new Node(key);
-            root = temp;
         }
 
         public Node Search(int value)
